@@ -8,10 +8,11 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
+    "semver": "^7.7.1",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "prebuild": "chmod +x node_modules/.bin/react-scripts", 
+    "prebuild": "chmod +x node_modules/.bin/react-scripts",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
